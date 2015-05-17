@@ -1,0 +1,11 @@
+This documents captures the procedure for unit testing the panchangJS
+
+Prerequisites
+- NodeJS
+- bash
+
+Steps for unit testing
+1) Create a link to panchang.js to the local directory
+2) run the following commands
+	node unittest1.js
+        node unittest2.js
