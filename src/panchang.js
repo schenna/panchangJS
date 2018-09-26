@@ -4,7 +4,7 @@
 d2r = Math.PI/180;
 r2d = 180/Math.PI;
 var zn = ["Mesha","Vrushabha","Mithuna","Karkataka","Simha","Kanya","Tula","Vrushchika","Dhanu","Makara","Kumbha","Meena"];
-var wd = ["Sunday","Monday","Tuesday","Wednessday","Thursday","Friday","Saturday"];
+var wd = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 var range = [1,31,0,0,-3000,4000,0,23,0,59,-12,12,0,59];
 var naks = ["Ashwini","Bharani","Kruthika","Rohini","Mrugasira","Aarudra","Punarwasu","Pushyami","Aslesha","Makha","Pubha","Uttara","Hasta","Chitta","Swati","Visakha","Anuradha","Jyesta","Mula","Purva-Shada","Uttara-Shaada","Sravanam","Dhanista","Satabhisham","Purva-Bhadra","Uttara-Bhadra","Revathi"];
 var tith =["Padyami","Vidhiya","Thadiya","Chavithi","Panchami","Shasti","Sapthami","Ashtami","Navami","Dasami","Ekadasi","Dvadasi","Trayodasi","Chaturdasi","Punnami","Padyami","Vidhiya","Thadiya","Chaviti","Panchami","Shasti","Sapthami","Ashtami","Navami","Dasami","Ekadasi","Dvadasi","Trayodasi","Chaturdasi","Amavasya"];
